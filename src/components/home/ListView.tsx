@@ -1,4 +1,4 @@
-import Modals from "@components/utils/Modals"
+import Modals from "../../components/utils/Modals"
 import { useState } from "react"
 import router from "next/router"
 

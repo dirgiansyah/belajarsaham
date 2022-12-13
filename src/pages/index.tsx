@@ -3,8 +3,8 @@ import { NextPage } from 'next'
 
 import axios from 'axios'
 
-import ListView from '@components/home/ListView'
-import SearchView from '@components/home/SearchView'
+import ListView from '../components/home/ListView'
+import SearchView from '../components/home/SearchView'
 
 const Home: NextPage = () => {
 

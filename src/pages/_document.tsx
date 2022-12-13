@@ -3,9 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 const Document = () => {
     return (
         <Html>
-            <Head>
-                <title>Belajar Saham</title>
-            </Head>
+            <Head />
             <body>
                 <Main />
                 <NextScript />
